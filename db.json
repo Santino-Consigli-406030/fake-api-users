@@ -1,7 +1,7 @@
 {
   "user": {
     "userId": 1,
-    "username": "teacher1",
+    "username": "Santino",
     "email": "teacher1@example.com",
     "passwordHash": "hashedpassword1",
     "firstName": "John",
@@ -9,7 +9,7 @@
     "dni": "12345678",
     "role": {
       "roleId": 1,
-      "roleName": "Teacher"
+      "roleName": "student"
     }
   }
 }
