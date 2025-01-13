@@ -12,4 +12,17 @@
       "roleName": "student"
     }
   }
+  "user": {
+    "userId": 2,
+    "username": "Santino",
+    "email": "teacher1@example.com",
+    "passwordHash": "hashedpassword1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dni": "12345678",
+    "role": {
+      "roleId": 2,
+      "roleName": "teacher"
+    }
+  }
 }
